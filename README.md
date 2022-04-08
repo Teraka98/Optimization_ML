@@ -1,4 +1,4 @@
-# Optmization_ML
+# Optimization_ML
 
 This project is concerned with going beyond first-order techniques in machine learning. Algorithmic
 frameworks such as gradient descent and stochastic gradient are inherently first-order methods, in
